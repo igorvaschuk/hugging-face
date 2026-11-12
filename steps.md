@@ -31,7 +31,9 @@ This is a record of how the transcript list was built (Nov 12, 2026).
 
 8. **Wrote the files** under `hugging-face/`: `transcripts.md`, `sources.md`, `steps.md` and `README.md`.
 
-9. **Repository.** You asked for a new repo called `hugging-face`. This session's GitHub access is limited to `igorvaschuk/family-vaschuk-com`, and I am not permitted to create other repositories. So I put the work in a self-contained `hugging-face/` folder in that repo, on branch `ccr-9475845b-jct76w`, then committed and pushed it. To make it a standalone repo, create an empty `hugging-face` repo on GitHub and copy the folder in, or use `git subtree split --prefix=hugging-face`.
+9. **Repository.** This session could not create repositories, so I first committed the files to a `hugging-face/` folder in `igorvaschuk/family-vaschuk-com` (branch `ccr-9475845b-jct76w`).
+
+10. **Moved to its own repo.** You created the empty repo `igorvaschuk/hugging-face`, and I attached it to the session. I used `git subtree split --prefix=hugging-face` to pull the folder out with its history, then pushed it as `main`. The four files sit at the repo root.
 
 ## Caveats
 
