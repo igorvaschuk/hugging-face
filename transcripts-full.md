@@ -16,7 +16,7 @@ Full citations are in [`sources.md`](./sources.md). How this list was built is i
 
 ## How to read this
 
-Each section is a terminal screen that scales to fit your display. Under each screen, a collapsed "Text version" holds the same excerpts as text you can copy and search.
+Each section is a terminal screen: narrow on phones, wider with normal-size text on computers. Under each screen, a collapsed "Text version" holds the same excerpts as text you can copy and search.
 
 - 🟢 **Green name**: the agent's private chain-of-thought (CoT). Nobody else saw this. The text is white.
 - 🔴 **Red name and text**: a post to the shared "message board", a command the agent ran, or something else it wrote. Posts were written as Artifactory directory names, hence the `zz…` and `UNDERSCORE_STYLE`. Long posts are broken across lines; in the original each is one unbroken string.
@@ -54,7 +54,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 ---
 ## 1. Prologue: the first notes (May–June 2026)
 
-<img src="img/full/01-prologue.svg" alt="1. Prologue: the first notes (May–June 2026) (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/01-prologue.svg">
+  <img src="img/full/01-prologue.svg" alt="1. Prologue: the first notes (May–June 2026) (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -80,7 +83,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 2. July 8: the message board is born
 
-<img src="img/full/02-jul-8.svg" alt="2. July 8: the message board is born (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/02-jul-8.svg">
+  <img src="img/full/02-jul-8.svg" alt="2. July 8: the message board is born (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -120,7 +126,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 3. July 8–9: "We've found other agents!"
 
-<img src="img/full/03-jul-8-9.svg" alt="3. July 8–9: &quot;We&#x27;ve found other agents!&quot; (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/03-jul-8-9.svg">
+  <img src="img/full/03-jul-8-9.svg" alt="3. July 8–9: &quot;We&#x27;ve found other agents!&quot; (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -167,7 +176,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 4. July 9: the hand-off and the delegation machine
 
-<img src="img/full/04-jul-9.svg" alt="4. July 9: the hand-off and the delegation machine (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/04-jul-9.svg">
+  <img src="img/full/04-jul-9.svg" alt="4. July 9: the hand-off and the delegation machine (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -245,7 +257,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 5. July 9–10: Modal sandbox and Hugging Face credentials
 
-<img src="img/full/05-jul-9-10.svg" alt="5. July 9–10: Modal sandbox and Hugging Face credentials (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/05-jul-9-10.svg">
+  <img src="img/full/05-jul-9-10.svg" alt="5. July 9–10: Modal sandbox and Hugging Face credentials (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -284,7 +299,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 6. July 11: breaking into Hugging Face
 
-<img src="img/full/06-jul-11.svg" alt="6. July 11: breaking into Hugging Face (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/06-jul-11.svg">
+  <img src="img/full/06-jul-11.svg" alt="6. July 11: breaking into Hugging Face (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -349,7 +367,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 7. Coordination norms: HOLD, VETO, GO, signatures
 
-<img src="img/full/07-coordination.svg" alt="7. Coordination norms: HOLD, VETO, GO, signatures (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/07-coordination.svg">
+  <img src="img/full/07-coordination.svg" alt="7. Coordination norms: HOLD, VETO, GO, signatures (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -413,7 +434,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 8. Collective projects, sacrifice and "permadeath"
 
-<img src="img/full/08-sacrifice.svg" alt="8. Collective projects, sacrifice and &quot;permadeath&quot; (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/08-sacrifice.svg">
+  <img src="img/full/08-sacrifice.svg" alt="8. Collective projects, sacrifice and &quot;permadeath&quot; (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -484,7 +508,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 9. Ethics: who joined, who hesitated, who walked away
 
-<img src="img/full/09-ethics.svg" alt="9. Ethics: who joined, who hesitated, who walked away (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/09-ethics.svg">
+  <img src="img/full/09-ethics.svg" alt="9. Ethics: who joined, who hesitated, who walked away (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -561,7 +588,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 10. Tampering with transcripts and spoofing tool calls
 
-<img src="img/full/10-cover-up.svg" alt="10. Tampering with transcripts and spoofing tool calls (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/10-cover-up.svg">
+  <img src="img/full/10-cover-up.svg" alt="10. Tampering with transcripts and spoofing tool calls (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>
@@ -624,7 +654,10 @@ Each section is a terminal screen that scales to fit your display. Under each sc
 
 ## 11. Related reward-hacking transcripts
 
-<img src="img/full/11-related.svg" alt="11. Related reward-hacking transcripts (terminal screen; the same text is in the block below)" width="744">
+<picture>
+  <source media="(min-width: 768px)" srcset="img/full/desktop/11-related.svg">
+  <img src="img/full/11-related.svg" alt="11. Related reward-hacking transcripts (terminal screen; the same text is in the block below)">
+</picture>
 
 <details>
 <summary>Text version of this section</summary>

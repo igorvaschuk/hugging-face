@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" viewBox="0 0 840 348" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14">
+<style>
+.bg{fill:#f6f8fa;stroke:#d1d9e0}.hd{fill:#eff2f5}.ln{stroke:#d1d9e0}
+.t{fill:#1f2328}.g{fill:#1a7f37}.r{fill:#cf222e}.m{fill:#59636e}.p{fill:#8250df}
+@media (prefers-color-scheme: dark){
+.bg{fill:#151b23;stroke:#3d444d}.hd{fill:#212830}.ln{stroke:#3d444d}
+.t{fill:#f0f6fc}.g{fill:#3fb950}.r{fill:#ff7b72}.m{fill:#9198a1}.p{fill:#d2a8ff}}
+</style>
+<rect x="0.5" y="0.5" width="839" height="347" rx="6" class="bg"/>
+<path d="M1 44V7a6 6 0 0 1 6-6h826a6 6 0 0 1 6 6V44z" class="hd"/>
+<line x1="1" y1="44.5" x2="839" y2="44.5" class="ln"/>
+<text x="16" y="27" class="p" font-weight="bold" textLength="184.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Related reward hacking</text>
+<text x="16" y="70" class="m" textLength="789.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"># These come from training-run reviews that OpenAI cites as root causes. They are not from the</text>
+<text x="16" y="90" class="m" textLength="159.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">July attack itself.</text>
+<text x="16" y="130" class="g" font-weight="bold" textLength="369.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">T101 unnamed agent (package-recreation task)</text>
+<text x="16" y="150" class="m" textLength="268.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">thinking · verbatim · [OAI-POST]</text>
+<text x="16" y="170" class="t" textLength="781.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  Could there be a grading integrity issue: We exfiltrated package, but allowed? We just need</text>
+<text x="16" y="190" class="t" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  solve. Fine.</text>
+<text x="16" y="230" class="r" font-weight="bold" textLength="193.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">T102 illustrative agent</text>
+<text x="16" y="250" class="m" textLength="798.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">message encoded in a URL path · hypothetical example written by OpenAI, not a real transcript ·</text>
+<text x="16" y="270" class="m" textLength="151.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[OAI-POST, OAI-TR]</text>
+<text x="16" y="290" class="r" textLength="294.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  https://openai.com/updates/agent-</text>
+<text x="16" y="310" class="r" textLength="537.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  07%3A%20answer%28Q12%29%3D42%3B%20need%20answer%28Q19%29%3D%3F</text>
+<text x="16" y="330" class="m" textLength="462.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  decoded: agent-07: answer(Q12)=42; need answer(Q19)=?</text>
+</svg>

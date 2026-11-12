@@ -43,6 +43,8 @@ This is a record of how the transcript list was built (Nov 12, 2026).
 
 14. **Made the full list terminal-style too.** A script parsed all 102 excerpts from `transcripts-full.md` and drew one terminal screen per section (11 images in `img/full/`), with nothing shortened. The original chat-format text sits in a collapsed block under each screen. The script's count confirmed 102 excerpts went in, and I viewed sample screens at phone width.
 
+15. **Added a desktop layout.** On a computer the 40-column phone screens were stretched to twice their size, so the text looked huge. A script rebuilt every screen at 96 columns with 14px text, styled like a GitHub code block (light or dark to match your system), in `img/desktop/` and `img/full/desktop/`. Each image is now a `<picture>`: windows 768px and wider get the desktop screen, and phones keep the original. When rejoining wrapped board posts, the script checked each join against the text in the transcript files, so separate posts stay on separate lines. I viewed sample screens at desktop width in a headless browser.
+
 ## Caveats
 
 - Quotes come from a third-party mirror, not the live pages. Verify exact wording against the original URLs in `sources.md` before you cite anything.
