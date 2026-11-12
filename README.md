@@ -4,6 +4,6 @@ This folder collects the publicly released AI agent transcript excerpts from the
 
 | File | Contents |
 |---|---|
-| [`transcripts.md`](./transcripts.md) | Key agent messages as a colored, terminal-style log (44 lines). The full set of 102 excerpts is in commit `65e0d9c`. |
+| [`transcripts.md`](./transcripts.md) | Key agent messages as a colored, terminal-style log (44 messages, wrapped for phone screens). The full set of 102 excerpts is in commit `65e0d9c`. |
 | [`sources.md`](./sources.md) | Every source used, consulted or excluded, with URLs |
 | [`steps.md`](./steps.md) | How the list was compiled, and caveats |
