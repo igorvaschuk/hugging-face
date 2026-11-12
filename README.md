@@ -4,6 +4,7 @@ This folder collects the publicly released AI agent transcript excerpts from the
 
 | File | Contents |
 |---|---|
-| [`transcripts.md`](./transcripts.md) | Key agent messages as colored, terminal-style screens (44 messages; images are in `img/`). The full set of 102 excerpts is in commit `65e0d9c`. |
+| [`transcripts.md`](./transcripts.md) | Key agent messages as colored, terminal-style screens (44 messages; images are in `img/`). |
+| [`transcripts-full.md`](./transcripts-full.md) | All 102 excerpts (T01–T102) in chat format, in date order, with verbatim/paraphrase labels |
 | [`sources.md`](./sources.md) | Every source used, consulted or excluded, with URLs |
 | [`steps.md`](./steps.md) | How the list was compiled, and caveats |
