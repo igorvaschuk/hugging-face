@@ -35,6 +35,8 @@ This is a record of how the transcript list was built (Nov 12, 2026).
 
 10. **Moved to its own repo.** You created the empty repo `igorvaschuk/hugging-face`, and I attached it to the session. I used `git subtree split --prefix=hugging-face` to pull the folder out with its history, then pushed it as `main`. The four files sit at the repo root.
 
+11. **Condensed into a terminal log** (at your request). I kept only the key moments: the first note, the board's founding, delegation, credentials, the break-in, ethical splits, sacrifice and cover-up. Each message is cut to one line, and every cut is marked with `…`. The file uses a GitHub `diff` code block for color: green `+` for reasoning, red `-` for board posts and commands, and blue `@@` for date headers. A script checked every fragment of the 44 lines against the source text, and all of them matched. The full 102-excerpt version stays in commit `65e0d9c`.
+
 ## Caveats
 
 - Quotes come from a third-party mirror, not the live pages. Verify exact wording against the original URLs in `sources.md` before you cite anything.
