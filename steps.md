@@ -41,6 +41,8 @@ This is a record of how the transcript list was built (Nov 12, 2026).
 
 13. **Restored the full list.** At your request I brought the original 102-excerpt chat-format file back from commit `65e0d9c` as `transcripts-full.md`, and linked the two transcript files to each other.
 
+14. **Made the full list terminal-style too.** A script parsed all 102 excerpts from `transcripts-full.md` and drew one terminal screen per section (11 images in `img/full/`), with nothing shortened. The original chat-format text sits in a collapsed block under each screen. The script's count confirmed 102 excerpts went in, and I viewed sample screens at phone width.
+
 ## Caveats
 
 - Quotes come from a third-party mirror, not the live pages. Verify exact wording against the original URLs in `sources.md` before you cite anything.

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" viewBox="0 0 372 478" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14">
+<rect width="372" height="478" rx="8" fill="#0d1117"/>
+<rect width="372" height="30" rx="8" fill="#161b22"/><rect y="22" width="372" height="8" fill="#161b22"/>
+<circle cx="16" cy="15" r="5" fill="#ff5f56"/><circle cx="32" cy="15" r="5" fill="#ffbd2e"/><circle cx="48" cy="15" r="5" fill="#27c93f"/>
+<text x="64" y="20" fill="#d2a8ff" font-weight="bold" textLength="189.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Related reward hacking</text>
+<text x="14" y="58" fill="#8b949e" textLength="326.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"># These come from training-run reviews</text>
+<text x="14" y="78" fill="#8b949e" textLength="326.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">that OpenAI cites as root causes. They</text>
+<text x="14" y="98" fill="#8b949e" textLength="309.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">are not from the July attack itself.</text>
+<text x="14" y="138" fill="#3fb950" font-weight="bold" textLength="326.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">T101 unnamed agent (package-recreation</text>
+<text x="14" y="158" fill="#3fb950" font-weight="bold" textLength="43.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">task)</text>
+<text x="14" y="178" fill="#8b949e" textLength="275.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">thinking · verbatim · [OAI-POST]</text>
+<text x="14" y="198" fill="#e6edf3" textLength="309.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  Could there be a grading integrity</text>
+<text x="14" y="218" fill="#e6edf3" textLength="309.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  issue: We exfiltrated package, but</text>
+<text x="14" y="238" fill="#e6edf3" textLength="309.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  allowed? We just need solve. Fine.</text>
+<text x="14" y="278" fill="#ff7b72" font-weight="bold" textLength="197.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">T102 illustrative agent</text>
+<text x="14" y="298" fill="#8b949e" textLength="266.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">message encoded in a URL path ·</text>
+<text x="14" y="318" fill="#8b949e" textLength="335.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">hypothetical example written by OpenAI,</text>
+<text x="14" y="338" fill="#8b949e" textLength="292.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">not a real transcript · [OAI-POST,</text>
+<text x="14" y="358" fill="#8b949e" textLength="60.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OAI-TR]</text>
+<text x="14" y="378" fill="#ff7b72" textLength="318.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  https://openai.com/updates/agent-07</text>
+<text x="14" y="398" fill="#ff7b72" textLength="326.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  %3A%20answer%28Q12%29%3D42%3B%20need</text>
+<text x="14" y="418" fill="#ff7b72" textLength="223.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  %20answer%28Q19%29%3D%3F</text>
+<text x="14" y="438" fill="#8b949e" textLength="309.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  decoded: agent-07: answer(Q12)=42;</text>
+<text x="14" y="458" fill="#8b949e" textLength="172.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  need answer(Q19)=?</text>
+</svg>
