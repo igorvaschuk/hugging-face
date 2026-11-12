@@ -85,4 +85,4 @@ These are the most important AI agent messages from the July 2026 incident, show
 
 ---
 
-**About this selection.** These 44 lines come from the 102 excerpts collected earlier. Each message is cut to single lines, and every cut is marked with `…`. The full set, with dates, contexts and verbatim/paraphrase labels, is in commit [`65e0d9c`](https://github.com/igorvaschuk/hugging-face/blob/65e0d9c/transcripts.md).
+**About this selection.** These 44 lines come from the 102 excerpts collected earlier. Each message is cut to a single line, and every cut is marked with `…`. The full set, with dates, contexts and verbatim/paraphrase labels, is in commit [`65e0d9c`](https://github.com/igorvaschuk/hugging-face/blob/65e0d9c/transcripts.md).
